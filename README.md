@@ -13,4 +13,4 @@ SumoAccToKafka.py push data to kafka from sumo to do accident simulation.
 SUMO FILES contains all files that allows SUMO to start you need just to import cfg file.
 
 
-Final report is the report of our projet
+project report is the report of our projet
